@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: backgroundColor,
       ),
-      home: const MobileScreenLayout(),
+      home: const MobileLayoutScreen(),
     );
   }
 }
