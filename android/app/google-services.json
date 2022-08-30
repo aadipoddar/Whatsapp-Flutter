@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "168162365702-4rc4d8udffa5m4qh96h8a39c1k8peuvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aadi.whatsapp",
+            "certificate_hash": "004398fae99df0b8c5c2a661fb1c07da57aedd4a"
+          }
+        },
+        {
           "client_id": "168162365702-e2fdap5fvhvcr1t33jll2ah9229dakim.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "168162365702-e2fdap5fvhvcr1t33jll2ah9229dakim.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "168162365702-d9j16es9fu73pv3gcdhl966cs5na0duo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aadi.whatsapp"
+              }
             }
           ]
         }
